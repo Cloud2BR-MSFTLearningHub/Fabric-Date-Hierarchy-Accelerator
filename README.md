@@ -35,7 +35,6 @@ Last updated: 2025-10-15
 
 </details>
 
-
 <details> 
 <summary><b> Before Fabric</b> (Click to expand)</summary>
 
